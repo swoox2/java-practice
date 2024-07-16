@@ -10,9 +10,9 @@
 - 배열 도입- 리팩토링
   - 예제 코드: ClassStart4
 - 문제와 풀이
-  - MovieReview
-  - MovieReviewMain1
-  - MovieReviewMain2
-  - ProductOrder
-  - ProductOrderMain
+  - 예제코드: MovieReview
+  - 예제코드: MovieReviewMain1
+  - 예제코드: MovieReviewMain2
+  - 예제코드: ProductOrder
+  - 예제코드: ProductOrderMain
 - 정리
