@@ -11,12 +11,12 @@
 - 참조형과 메서드 호출 - 활용
   - 예제 코드: Method1, Method2, Student
 - 변수와 초기화
-  - InitData, InitMain
+  - 예제 코드: InitData, InitMain
 - null
-  - NullMain1
+  - 예제 코드: NullMain1
 - NullPointerException
-  - NullMain2, NullMain3, NullMain4, BigData
+  - 예제 코드: NullMain2, NullMain3, NullMain4, BigData
 - 문제와 풀이
-  - ProductOrder, ProductOrderMain2, ProductOrderMain3
+  - 예제 코드: ProductOrder, ProductOrderMain2, ProductOrderMain3
 - 정리
 
