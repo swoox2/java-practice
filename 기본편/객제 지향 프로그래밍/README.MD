@@ -1,6 +1,6 @@
 ## 목차
 - 절차 지향 프로그래밍1 - 시작
-  - 예제 코드: MusicPlayerMain1
+  - 예제 코드: MusicPlayerMain1
 - 절자 지향 프로그래밍2 - 데이터 묶음
   - 예제 코드: MusicPlayerMain2
 - 절차 지향 프로그래밍3 - 메서드 추출
