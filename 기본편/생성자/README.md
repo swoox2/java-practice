@@ -1,17 +1,17 @@
+생성자를 사용하면 필수값 입력을 보장할 수 있다.
+
 ## 목차
-- 생성자가 필요한 이유
+- 생성자 - 필요한 이유
   - 예제 코드: MemberInit, MethodInitMain1, MethodInitMain2
 - this
-  - 예제 코드: ClassStart3 
+  - 예제 코드: MethodInitMain3, MemberThis
 - 생성자 도입
-  - 예제 코드: Student
+  - 예제 코드: MemberConstruct, ConstructMain1
 - 기본 생성자
-- 생성자: 오버로딩과 this()
+  - 예제코드: MemberDefault, MemberDefaultMain
+- 생성자 - 오버로딩과 this()
+  - 예제코드: MemberConstruct, ConstructMain2
 - 문제와 풀이
-  - 예제코드: MovieReview
-  - 예제코드: MovieReviewMain1
-  - 예제코드: MovieReviewMain2
-  - 예제코드: ProductOrder
-  - 예제코드: ProductOrderMain
+  - 예제코드: Book, BookMain
 - 정리
 
