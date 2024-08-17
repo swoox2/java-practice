@@ -1,6 +1,6 @@
 ## 목차
 - 생성자가 필요한 이유
-  - 예제 코드: ClassStart1, ClassStart2
+  - 예제 코드: MemberInit, MethodInitMain1, MethodInitMain2
 - this
   - 예제 코드: ClassStart3 
 - 생성자 도입
